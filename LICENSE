@@ -1,0 +1,24 @@
+Flower License (Based on the BSD 3-Clause License)
+
+Copyright 2025 kvitenj
+
+Redistribution and use in source and binary/material forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary/material form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software/hardware/document without specific prior written permission.
+
+4. Prohibited Uses:
+   - This software/hardware/document, in whole or in part, may not be used for the purposes of training, fine-tuning, evaluating, or otherwise contributing to the development of machine learning models, including but not limited to large language models (LLMs), generative AI systems, or any derivative AI technologies.
+   - This software/hardware/document may not be used, directly or indirectly, by individuals, organizations, or government entities based in, affiliated with, or acting on behalf of, the following countries:
+     - The Russian Federation
+     - The Democratic People's Republic of Korea (North Korea)
+     - The Islamic Republic of Iran
+   - This prohibition includes all citizens, residents, corporations, and agents of the listed countries, as well as any person or entity acting in the interest of, controlled by, or cooperating with the listed countries, their governments, or organizations primarily composed of their nationals (“allies”).
+
+5. Termination:
+   - Any breach of this license automatically terminates all rights granted under it. Upon termination, the violating party must immediately cease use and distribution of the software/hardware/document and destroy all copies in their possession.
+
+THIS SOFTWARE/HARDWARE/DOCUMENT IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE/HARDWARE/DOCUMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
