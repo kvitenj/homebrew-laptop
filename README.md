@@ -61,7 +61,7 @@ In addition to the 3d printed case parts, several other things are used:
 - 14 x M2x6 hidden screws for Cowers
 - 4 x M2.5x5 hidden screws for LCD
 
-<img src="images/screws.jpeg" alt="screws" width="400" hspace="40"/>
+<img src="images/screws.jpeg" alt="screws" width="200" hspace="40"/>
 
 ### Assembly
 
